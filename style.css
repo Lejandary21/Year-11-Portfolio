@@ -89,7 +89,7 @@ nav {
     font-family: "MainFont";
     color: white;
     animation: bounce 2s infinite;
-    padding-top: 15%
+    padding-top: 8%
 }
 
 .title p {
@@ -97,13 +97,13 @@ nav {
     font-weight: bold;
     color: white;
     animation: bounce 3s infinite;
-    margin-top: 400px;
+    margin-top: 100px;
 }
 
 body {
     /* background: rgb(63,94,251);
     background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%); */
-    background-image: url("tumblr_mgxewxhGRH1s3laroo1_500.gif");
+    background-image: url("tyler-the-creator-tyler.gif");
     background-repeat: no-repeat;
     background-size: 1920px;
 }
