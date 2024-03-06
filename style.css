@@ -55,6 +55,7 @@ body {
     background-image: url("tyler-the-creator-tyler.gif");
     background-repeat: no-repeat;
     background-size: 1920px;
+    background-attachment: fixed;
 }
 
 .container {
@@ -129,3 +130,32 @@ body {
     }
 }
 
+img {
+    width: 500px;
+    height: 300px;
+}
+
+#thetitle{
+    color:white;
+}
+
+#finaloutcome{
+    color:whitesmoke;
+    background-color: slategray;
+}
+
+#endusers{
+    color: whitesmoke;
+    background-color: slategray;
+    height: 100px;
+}
+
+#requirements{
+    color: whitesmoke;
+    background-color: slategray;
+}
+
+#implications{
+    color:whitesmoke;
+    background-color: slategray;
+}
