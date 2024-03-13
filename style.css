@@ -139,29 +139,28 @@ img {
     color:white;
 }
 
-#finaloutcome{
+#overview{
     color:whitesmoke;
-    background-color: slategray;
+    
 }
 
 #endusers{
     color: whitesmoke;
-    background-color: slategray;
     height: 100px;
 }
 
 #requirements{
     color: whitesmoke;
-    background-color: slategray;
+    
 }
 
 #implications{
     color:whitesmoke;
-    background-color: slategray;
+    
 }
 
 #development{
     color:whitesmoke;
-    background-color: slategray;
+    
     
 }
