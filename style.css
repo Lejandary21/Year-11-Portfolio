@@ -132,7 +132,15 @@ body {
 
 img {
     width: 500px;
-    height: 300px;
+    
+}
+
+.testimages {
+   width: 800px;
+}
+
+.overviewimages {
+    width: 800px
 }
 
 #thetitle{
@@ -169,4 +177,26 @@ img {
     font-size: 20px;
     font-weight: bold;
     color:whitesmoke;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left, .middle, .right {
+    flex: 1;
+    text-align: center;
+}
+
+.left {
+    order: 7;
+}
+
+.middle {
+    order: 2;
+}
+
+.right {
+    order: 3;
 }
